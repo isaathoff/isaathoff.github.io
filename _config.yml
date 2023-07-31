@@ -20,7 +20,7 @@ timezone: Europe/Berlin
 
 title: Inga Saathoff # the main title
 
-tagline: Astrophysicist. [This is a new site, more info coming soon] # it will display as the sub-title
+tagline: High energy observational astrophysicist working on X-ray pulsars and supernova remnants. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Personal website of Inga Saathoff.
@@ -31,14 +31,14 @@ url: "https://isaathoff.github.io"
 github:
   username: isaathoff # change to your github username
 
-twitter:
-  username: # twitter_username # change to your twitter username
+#twitter:
+#  username: # twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Inga Saathoff
-  email: inga.saathoff@gmail.com # change to your email address
+  email: durable.iguana.0q@icloud.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'profilepic.png'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
