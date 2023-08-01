@@ -2,7 +2,7 @@
 title: 31st Texas Symposium on Relativistic Astrophysics
 date: 2022-09-12 00:00:00
 categories: [Conferences, Talks]
-image: /img/texas-symposium/TexasSymposium_20220913.pdf
+image: /img/texas-symposium/preview.pdf
 tags: [talk, neutron star, x-ray pulsar]
 ---
 
