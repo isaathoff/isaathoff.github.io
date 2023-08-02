@@ -4,11 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm an astrophysicist currently wrapping up my PhD degree at the University of Tübingen.
+I am an astrophysicist currently wrapping up my PhD degree at the University of Tübingen and soon heading off to work as a postdoc at KTH Stockholm.
 
-My main area of interest concerns neutron stars in X-ray pulsars and their observational properties. I have studied spin reversals in these systems in my bachelor thesis and investigated in particular Her X-1 in my master thesis. In my PhD thesis, I developed a novel approach to try and understand different contributions in pulse profiles from these sources.
+My main area of interest concerns neutron stars in X-ray pulsars and their observational properties. I have studied spin reversals in these systems in my [bachelor thesis](https://isaathoff.github.io/posts/bachelor/) and investigated in particular Her X-1 in my [master thesis](https://isaathoff.github.io/posts/master/). In my PhD thesis, I developed a novel approach to try and understand different contributions in pulse profiles from these sources.
 
-For more information, feel free to explore this website and please do not hesitate to contact me under [saathoff@astro.uni-tuebingen.de](mailto:saathoff@astro.uni-tuebingen.de). You can find my ORCiD [here](https://orcid.org/0000-0002-3068-7275).
+For more information, feel free to explore this website (e.g. have a look at my [CV](https://isaathoff.github.io/posts/cv/) and [research interests](https://isaathoff.github.io/posts/science/)) and please do not hesitate to contact me under [saathoff@astro.uni-tuebingen.de](mailto:saathoff@astro.uni-tuebingen.de). You can also find me on [ORCiD](https://orcid.org/0000-0002-3068-7275).
 
 ---
 ## How do I create graphics and animations?
