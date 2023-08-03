@@ -1,7 +1,7 @@
 ---
 title: New Webpage
 date: 2023-07-31 01:00:00
-categories: [webpage]
+categories: []
 tags: []
 ---
 
