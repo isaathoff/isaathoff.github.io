@@ -8,7 +8,7 @@ I am an astrophysicist currently wrapping up my PhD degree at the University of 
 
 My main area of interest concerns neutron stars in X-ray pulsars and their observational properties. I have studied spin reversals in these systems in my [bachelor thesis](https://isaathoff.github.io/posts/bachelor/) and investigated in particular Her X-1 in my [master thesis](https://isaathoff.github.io/posts/master/). In my PhD thesis, I developed a novel approach to try and understand different contributions in pulse profiles from these sources.
 
-For more information, feel free to explore this website (e.g. have a look at my [CV](https://isaathoff.github.io/posts/cv/) and [research interests](https://isaathoff.github.io/posts/science/)) and please do not hesitate to contact me under [saathoff@astro.uni-tuebingen.de](mailto:saathoff@astro.uni-tuebingen.de). You can also find me on [ORCiD](https://orcid.org/0000-0002-3068-7275).
+For more information, feel free to explore this website (e.g. have a look at my [CV](https://isaathoff.github.io/posts/cv/) and [research interests](https://isaathoff.github.io/posts/science/)) and please do not hesitate to contact me under [saathoff.astro@gmail.com](mailto:saathoff.astro@gmail.com). You can also find me on [ORCiD](https://orcid.org/0000-0002-3068-7275).
 
 ---
 ## How do I create graphics and animations?
@@ -29,4 +29,4 @@ Sand 1\
 72076 Tübingen\
 Germany
 
-Email: [saathoff@astro.uni-tuebingen.de](mailto:saathoff@astro.uni-tuebingen.de)
+Email: [saathoff.astro@gmail.com](mailto:saathoff.astro@gmail.com)
