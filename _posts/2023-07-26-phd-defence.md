@@ -2,7 +2,7 @@
 title: PhD Defence & Thesis
 date: 2023-07-26 00:00:00
 categories: [About Me, Thesis]
-image: /img/phd-defence/defence.jpeg
+image: /img/20230726-defence.jpeg
 tags: [thesis, neutron star, x-ray pulsar]
 ---
 
@@ -10,5 +10,5 @@ I completed my PhD at the [Institute for Astronomy and Astrophysics](https://uni
 
 Here is a picture of me wearing my PhD hat, the neutron star on the top is motorized and spinning!
 
-![Hat](/img/phd-defence/phd-hat.jpeg){:height="136px" width="136px"}
+![Hat](/img/20230726-phd-hat.jpeg){:height="136px" width="136px"}
 
