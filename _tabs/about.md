@@ -23,8 +23,8 @@ In case you were wondering how I create the images and animations on this site, 
 
 Inga Saathoff [(My profile page on the KTH Website)](https://www.kth.se/profile/saathoff)
 
-Astrophysics Group [Prof. Josefin Larsson](https://www.kth.se/profile/josla?l=sv)\
-[Division of Particle and Astroparticle Physics](https://www.particle.kth.se/particle-and-astroparticle-physics-1.793997)\
+Astrophysics Group Prof. Josefin Larsson\
+Division of Particle and Astroparticle Physics\
 Roslagstullsbacken 21\
 106 91 Stockholm\
 SWEDEN
