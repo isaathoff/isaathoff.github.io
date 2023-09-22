@@ -23,10 +23,10 @@ In case you were wondering how I create the images and animations on this site, 
 
 Inga Saathoff
 
-Institute for Astronomy und Astrophysics Tübingen\
-Astronomy and High Energy Astrophysics Department\
-Sand 1\
-72076 Tübingen\
-Germany
+Astrophysics, Prof. Josefin Larsson\
+Division of Particle and Astroparticle Physics\
+Roslagstullsbacken 21\
+106 91 Stockholm\
+Sweden
 
-Email: [saathoff.astro@gmail.com](mailto:saathoff.astro@gmail.com)
+Email: [saathoff@kth.se](mailto:saathoff@kth.se)
