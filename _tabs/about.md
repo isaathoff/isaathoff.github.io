@@ -29,4 +29,4 @@ Roslagstullsbacken 21\
 106 91 Stockholm\
 Sweden
 
-Email: [saathoff@kth.se](mailto:saathoff@kth.se)
+Email: saathoff@kth.se
