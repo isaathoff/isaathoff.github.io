@@ -22,7 +22,7 @@ Why do we want to know the relationship between high-energy luminosity and rotat
 This paper aims to take into account the effects that can distort the relationship, and then use a Monte Carlo simulator to compare the simulated distribution with the observed data. They hope to find a statistically acceptable "hidden" relationship between the two luminosities. One reason why the relation could be contaminated is the influence of different types of sources, such as magnetars (anomalous X-ray pulsars and soft gamma-ray repeaters), central compact objects and X-ray isolated neutron stars. All of these show excess X-ray luminosity.
 
 - Magnetars: Some of their main properties are
-    - persistent X-ray luminosity ($$10^{33}-10^{36}$$erg/s,)greater than $$L_\text{rot}$$,
+    - persistent X-ray luminosity ($$10^{33}-10^{36}$$erg/s), greater than $$L_\text{rot}$$,
     - high time variability, and
     - large breaking torque, implying $$B_d \sim 10^{14--15}$$G.
 - Central Compact Objects are bright X-ray sources located near the centres of supernova remnants with
