@@ -11,7 +11,6 @@ tags: [x-ray, EXOD, XMM-Newton, Type I X-ray burster]
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-
 ## The Idea
 XMM-Newton's standard pipeline determines the variability of sources that are bright enough with $$\chi^2$$ and fractional variability tests. The problem is that faint sources that are transient on short timescales are missed by these tests. This paper, with the title ["The EXOD search for faint transients in XMM-Newton observations: Method and discovery of four extragalactic Type I X-ray bursters"](https://arxiv.org/abs/2005.08673) addresses this problem and presents EXOD: The EPIC-pn XMM-Newton outburst detector algorithm. By applying this algorithm to about 5700 observations, they find 2500 variable sources, of which 35 have not been previously classified. These include stellar flares, AGN, and four extragalactic Type I X-ray bursters in M31. These are neutron star low-mass X-ray binaries, and their detection has doubled the number of known neutron stars in M31.
 
