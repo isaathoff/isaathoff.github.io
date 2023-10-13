@@ -7,7 +7,7 @@ image: /img/20231013-GRB-mini-jets.png
 tags: [x-ray, transient, EXTraS]
 ---
 
-Link to paper: [" Evidence of mini-jet emission in a large emission zone from a magnetically-dominated gamma-ray burst jet"](https://arxiv.org/abs/2105.02895) 
+Link to paper: [" Evidence of mini-jet emission in a large emission zone from a magnetically-dominated gamma-ray burst jet"](https://arxiv.org/abs/2310.07205) 
 
 ## Short pulses in a gamma-ray burst
 The prompt emission of gamma-ray bursts and their origin are not fully understood. For example, it is not clear what the jet is made of, where the emission region is, and what the mechanism is that produces the gamma rays. For non-thermal bursts, there are two main ideas to explain the observations:
