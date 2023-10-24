@@ -3,7 +3,7 @@ title: Extragalactic fast X-ray transient candidates discovered by Chandra - Not
 date: 2023-10-24 01:00:00
 categories: [Papers]
 pin: false
-image: /img/20231016-chandra-transients.png
+image: /img/20231024-chandra-transients.png
 tags: [x-ray, transient, Chandra]
 ---
 
