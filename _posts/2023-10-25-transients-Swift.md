@@ -1,9 +1,9 @@
 ---
 title: Extragalactic transient candidates, 2nd Swift-XRT Point Source catalogue - Notes on  Eyles-Ferris et al. 2022
-date: 2023-10-24 01:00:00
+date: 2023-10-25 01:00:00
 categories: [Papers]
 pin: false
-image: /img/20231024-transients-Swift.png
+image: /img/20231025-transients-Swift.png
 tags: [x-ray, transient, Chandra]
 ---
 
