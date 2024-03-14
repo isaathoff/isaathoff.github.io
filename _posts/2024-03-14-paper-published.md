@@ -1,5 +1,5 @@
 ---
-title: Algorithms for Non-Negative Matrix Factorization on Noisy Data With Negative Values - Notes on Green et al. 2023
+title: Paper published!
 date: 2024-03-14 01:00:00
 categories: [Papers]
 pin: true
@@ -14,7 +14,7 @@ Let's decipher the somewhat cryptic title. Neutron stars form at the end of a ma
 When this matter hits the surface of the neutron star, it produces light - X-rays to be precise. You can think of it in the same way as a meteor entering the Earth's atmosphere - it's motion creates light (although the exact process is slightly different). This means that we get these two bright spots on the surface of the neutron star, and because it is also rotating very fast, we might see these spots as pulses of light - like a lighthouse coming and going. This is called an X-ray pulsar.
 
 One of the big problems we face is that we still do not know the exact processes that are going on, nor do we even know how much of the light we see comes from which pole (in technical terms, we do not know what the decomposition of the pulse profile is)! This is the problem that I tried to solve in my thesis, using a technique that we all know from parties. 
-<img src="/img/20240314-bss.png" alt="Concept of blind source separation. Showing the mixing and subsequent unmixing of two source signals."/>
+<img src="/img/science/BSS_horizontal_Copy.png" alt="xConcept of blind source separation. Showing the mixing and subsequent unmixing of two source signals."/>
 At a party, we can easily 'tune in' to a conversation, even in the midst of multiple conversations and noise. We can separate the signal quite nicely, even without knowing exactly how the mixing is done. Our brains can do this easily, but it is difficult for a computer. But not impossible. There are several techniques that do this, and one of them is called Non-Negative Matrix Factorisation (NMF).
 
 The overall problem is known as "blind source separation" and I took this NMF method and applied it to my problem and then called it "phase correlated variability analysis". As a test case, I chose one of the brightest X-ray pulsars we know - called Centaurus X-3. I analysed this source and got some interesting and somewhat unexpected results!
