@@ -17,6 +17,10 @@ I am trying to learn Swedish and teach some German, and have recently spent some
     <embed src="/img/20240315-Pingi-Swedish-Algae.pdf">
     </embed>
 </object>
+<object data="/img/20240315-Pingi-Swedish-Bowling.pdf" width="360px" height="640px">
+    <embed src="/img/20240315-Pingi-Swedish-Algae.pdf">
+    </embed>
+</object>
 
 ## German
 <object data="/img/20240309-Pingi-German-Backflip.pdf" width="360px" height="640px">
@@ -25,5 +29,9 @@ I am trying to learn Swedish and teach some German, and have recently spent some
 </object>
 <object data="/img/20240315-Pingi-German-Algae.pdf" width="360px" height="640px">
     <embed src="/img/20240315-Pingi-German-Algae.pdf">
+    </embed>
+</object>
+<object data="/img/20240315-Pingi-German-Bowling.pdf" width="360px" height="640px">
+    <embed src="/img/20240315-Pingi-German-Bowling.pdf">
     </embed>
 </object>
