@@ -17,6 +17,7 @@ I am trying to learn Swedish and teach some German, and have recently spent some
     <embed src="/img/20240315-Pingi-Swedish-Algae.pdf">
     </embed>
 </object>
+
 <object data="/img/20240315-Pingi-Swedish-Bowling.pdf" width="360px" height="640px">
     <embed src="/img/20240315-Pingi-Swedish-Algae.pdf">
     </embed>
@@ -25,6 +26,7 @@ I am trying to learn Swedish and teach some German, and have recently spent some
     <embed src="/img/20240317-Pingi-Swedish-Accountant.pdf">
     </embed>
 </object>
+
 <object data="/img/20240322-Pingi-Swedish-Pingiair.pdf" width="360px" height="640px">
     <embed src="/img/20240322-Pingi-Swedish-Pingiair.pdf">
     </embed>
@@ -39,6 +41,7 @@ I am trying to learn Swedish and teach some German, and have recently spent some
     <embed src="/img/20240315-Pingi-German-Algae.pdf">
     </embed>
 </object>
+
 <object data="/img/20240315-Pingi-German-Bowling.pdf" width="360px" height="640px">
     <embed src="/img/20240315-Pingi-German-Bowling.pdf">
     </embed>
@@ -47,6 +50,7 @@ I am trying to learn Swedish and teach some German, and have recently spent some
     <embed src="/img/20240317-Pingi-German-Accountant.pdf">
     </embed>
 </object>
+
 <object data="/img/20240322-Pingi-German-Pingiar.pdf" width="360px" height="640px">
     <embed src="/img/20240322-Pingi-German-Pingiair.pdf">
     </embed>
