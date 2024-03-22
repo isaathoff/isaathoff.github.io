@@ -25,6 +25,10 @@ I am trying to learn Swedish and teach some German, and have recently spent some
     <embed src="/img/20240317-Pingi-Swedish-Accountant.pdf">
     </embed>
 </object>
+<object data="/img/20240322-Pingi-Swedish-Pingiair.pdf" width="360px" height="640px">
+    <embed src="/img/20240322-Pingi-Swedish-Pingiair.pdf">
+    </embed>
+</object>
 
 ## German
 <object data="/img/20240309-Pingi-German-Backflip.pdf" width="360px" height="640px">
@@ -41,5 +45,9 @@ I am trying to learn Swedish and teach some German, and have recently spent some
 </object>
 <object data="/img/20240317-Pingi-German-Accountant.pdf" width="360px" height="640px">
     <embed src="/img/20240317-Pingi-German-Accountant.pdf">
+    </embed>
+</object>
+<object data="/img/20240322-Pingi-German-Pingiar.pdf" width="360px" height="640px">
+    <embed src="/img/20240322-Pingi-German-Pingiair.pdf">
     </embed>
 </object>
