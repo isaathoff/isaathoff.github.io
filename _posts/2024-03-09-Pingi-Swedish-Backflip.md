@@ -52,6 +52,6 @@ I am trying to learn Swedish and teach some German, and have recently spent some
 </object>
 
 <object data="/img/20240322-Pingi-German-Pingiar.pdf" width="360px" height="640px">
-    <embed src="/img/20240322-Pingi-German-Pingiair.pdf">
+    <embed src="/img/20240322-Pingi-German-Pingiar.pdf">
     </embed>
 </object>
