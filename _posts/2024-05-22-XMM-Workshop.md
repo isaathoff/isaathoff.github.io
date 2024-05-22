@@ -3,7 +3,7 @@ title: XMM-Newton 2024 Science Workshop
 date: 2024-05-22 01:00:00
 categories: [Conferences, Posters]
 pin: false
-image: /img/20240522-XMM-2024-poster-slide.pdf
+image: /img/20240522-XMM-2024-poster-slide.png
 tags: [nmf, pcva, pulse profile, pulsar, Cen X-3, RXTE, x-ray, x-ray pulsar, neutron star]
 ---
 
@@ -22,7 +22,7 @@ Astrophysics Group, [Prof. Josefin Larsson](https://www.kth.se/profile/josla)
 [Division of Particle and Astroparticle Physics](https://www.particle.kth.se/particle-and-astroparticle-physics-1.793997)  
 Roslagstullsbacken 21, 106 91 Stockholm, Sweden
 
-ORCiD: [here](https://orcid.org/0000-0002-3068-7275)
+ORCiD: [here](https://orcid.org/0000-0002-3068-7275), 
 Linkedin: [here](https://www.linkedin.com/in/inga-saathoff)
 
 ## Further Reading
