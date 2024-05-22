@@ -23,7 +23,7 @@ Astrophysics Group, [Prof. Josefin Larsson](https://www.kth.se/profile/josla)
 Roslagstullsbacken 21, 106 91 Stockholm, Sweden
 
 ORCiD: [here](https://orcid.org/0000-0002-3068-7275)
-Linkedin: [here](www.linkedin.com/in/inga-saathoff)
+Linkedin: [here](https://www.linkedin.com/in/inga-saathoff)
 
 ## Further Reading
 You can read more about X-ray pulsars, pulse profile decomposition, and related topics here:
