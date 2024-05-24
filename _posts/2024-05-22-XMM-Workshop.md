@@ -10,10 +10,11 @@ tags: [nmf, pcva, pulse profile, pulsar, Cen X-3, RXTE, x-ray, x-ray pulsar, neu
 For the XMM-Newton 2024 Science Workshop [2024 Neutron Stars and White Dwarfs - XMM-Newton - Cosmos (esa.int)](https://www.cosmos.esa.int/web/xmm-newton/2024-workshop) I created a poster to present some of my work. On this page you can find the PDF poster, the link to the A&A paper, my contact details, and more. 
 
 ## PDF Poster
-<object data="/img/20240522-XMM-2024-poster.pdf" width="360px" height="640px">
+<object data="/img/20240522-XMM-2024-poster.pdf" width="750px" height="700px">
     <embed src="/img/20240522-XMM-2024-poster.pdf">
     </embed>
 </object>
+
 
 ## A&A Paper
 [Blind source separation for decomposing X-ray pulsar profiles. Introducing phase-correlated variability analysis (PCVA) with a case study of Cen X-3 - NASA/ADS (harvard.edu)](https://ui.adsabs.harvard.edu/abs/2024A%26A...683A..52S/abstract)
